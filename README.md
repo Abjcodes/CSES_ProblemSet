@@ -4,7 +4,7 @@
 The CSES Problem Set contains a collection of competitive programming practice problems. You can access the problems [here](https://cses.fi/problemset/).
 
 ## Current Status
-<details><summary>Introductory Problems</summary>
+### Introductory Problems
 
  - [x] - [Weird Algorithm](https://cses.fi/problemset/task/1068)
  - [x] - [Missing Number](https://cses.fi/problemset/task/1083)
@@ -23,4 +23,4 @@ The CSES Problem Set contains a collection of competitive programming practice p
  - [ ] - [Chessboard and Queens](https://cses.fi/problemset/task/1624)
  - [ ] - [Grid Paths](https://cses.fi/problemset/task/1625)
 
-</details>
+
