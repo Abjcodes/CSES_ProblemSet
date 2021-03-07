@@ -1,7 +1,7 @@
 # CSES-Solutions
 
 ### What is CSES?
-The CSES Problem Set contains a collection of competitive programming practice problems. You can access the problems [here](https://cses.fi/problemset/).
+The CSES Problem Set contains a collection of competitive programming practice problems. You can checkout the problemset [here](https://cses.fi/problemset/).
 
 ## Current Status
 ### Introductory Problems
